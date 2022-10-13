@@ -1,2 +1,3 @@
-# COMP3104_Group16_Assignment
-Assignment 1 for DevOps class
+Renzzi's Branch
+Student Name: Renzzi Adorador
+Student ID: 101277841
