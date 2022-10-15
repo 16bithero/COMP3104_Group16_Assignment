@@ -9,3 +9,8 @@ Student ID | Student Name    | GitHub Account
 101348583  | Jacob Solano    | @solanoj004
 101277841  | Renzzi Adorador | @16bitHero
 101300174  | Ronak Gala      | @ronakgala18
+
+Contributions - Led the team on github commits. Created main repository
+              - Shared resources for safely merging branches to main
+              - Shared resources for resolving merge conflicts
+              - Shared resources on resolving behind/ahead of commits from main 
