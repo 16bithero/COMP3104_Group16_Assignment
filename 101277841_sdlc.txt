@@ -1,0 +1,16 @@
+What is DevOps in Software Development Cycle?
+
+If we take a look at it, companies had two teams managing softwares, which are the development and operations team, with
+Development team writing the software and Operations to test the code making sure it runs without errors before deployment.
+This went on until they realized it's a bad idea since there are two separate teams working on a software, which leads to 
+problems since ops have no one to rely on but the documentation whenever they encounter a problem. This is where DevOps 
+comes in, merging two teams together, so the developers who write the program are also the one testing, supporting, 
+and deploying it, reducing time in cycle development.
+
+How does it impact SDLC? Why is it important?
+
+As mentioned before, learning DevOps significantly reduce development cycle time in projects. 
+Since the software is handled by one team, failures and errors are monitored and fixed often compared to deploying 
+and app with separate teams managing it. Deploying an app with little to no programming errors also increases the 
+deployment success rate of a product. This way, the apps and software deployments are faster and more efficient, 
+significantly improving a product's quality, and the company more succesful.

@@ -1,0 +1,13 @@
+DevOps would reduce the amount of time for development cycles and increases the rate of innovating the productivity
+This is because a team that knows the idea behind DevOps can work at the same time without hassle through the use of Version Control 
+Systems
+
+Learning DevOps ensures that there is a reduction in rollbacks, failures regarding deployment and also the time is taken to recover
+
+Learning DevOps would improve collaboration and communication.
+
+Github is a scary thing to learn since it is unknown to most people and the learning curve might throw a curveball to some.
+But once you learn how to use github or any other sort of version control systems. You can never go back.
+
+DevOps allows the use of a stable environment of operating. This is because people can have different versions of the code
+and the team can decide to pull or push changes from their branch.
