@@ -1,10 +1,11 @@
 # COMP3104_Group16_Assignment
-Assignment 1 for DevOps class
+> ### Assignment 1 for DevOps (COMP3104)
 
-# Israr - 101348701
+## Members 
 
-# Jacob - 101348583
-
-# Renzzi - 101277841
-
-# Ronak - 101300174
+Student ID | Student Name    | GitHub Account
+| :---     | :---            | :---
+101348701  | Israr Wahid     | @Anonymity1234
+101348583  | Jacob Solano    | @solanoj004
+101277841  | Renzzi Adorador | @16bitHero
+101300174  | Ronak Gala      | @ronakgala18
