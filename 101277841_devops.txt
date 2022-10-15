@@ -1,1 +1,22 @@
-DevOps text file in progress.
+What is DevOps (COMP3104)?
+
+Per Course Outline description, DevOps Course (COMP3104) is a course where students will be prepared for their career,
+where they will learn the procedures, protocols and practices that a succesful DevOps engineer could offer to their workplace.
+These skills includes analyzing and evaluating various developer operations, implement hands-on work using industry standard toolkits,
+and create solutions to complex business problems.
+
+What do I expect to do when I finish this course?
+Upon finishing the course, we're expected to master the following:
+    - BASH
+    - Git, GitHub
+    - Version Control
+    - Developer Operations Landscape
+    - Hosting Single Page Apps
+    - Work Tracking Tools 
+    - CI/CD 
+    - CI/CD Pipeline Sequences
+    - Cloud Infrastracture
+    - and more!
+
+Okay sounds cool. So who's teaching all these?
+No other than our amazing professor, Prof Pritesh Patel!
