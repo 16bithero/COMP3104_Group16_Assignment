@@ -9,6 +9,10 @@ Assignment 1 for DevOps class
 
 # Ronak - 101300174
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 >>>>>>> 8abbccc0f64618c0040f51195a1422d57eb60067
+=======
+
+>>>>>>> 5923dc53b2c41fcf40979b0097e2f8041fc02f30
