@@ -15,12 +15,12 @@
 
 ## Members 
 
-Student ID | Student Name    | GitHub Account
-| :---     | :---            | :---
-101348701  | Israr Wahid     | [@Anonymity1234](https://github.com/Anonymity1234)
-101348583  | Jacob Solano    | [@solanoj004](https://github.com/solanoj004)
-101277841  | Renzzi Adorador | [@16bitHero](https://github.com/16bitHero)
-101300174  | Ronak Gala      | [@ronakgala18](https://github.com/ronakgala18)  
+Member| Student ID | Student Name    | GitHub Account
+|:---: |:--- |:--- |:---
+<img src="https://github.com/16bithero/16bithero/blob/main/avataaars%20(5).png" height="70" width="70"> | 101348701  | Israr Wahid     | [@Anonymity1234](https://github.com/Anonymity1234)
+<img src="https://github.com/16bithero/16bithero/blob/main/avataaars%20(4).png" height="70" width="70"> | 101348583  | Jacob Solano    | [@solanoj004](https://github.com/solanoj004)
+<img src="https://github.com/16bithero/16bithero/blob/main/avataaars%20(1).png" height="70" width="70"> | 101277841  | Renzzi Adorador | [@16bitHero](https://github.com/16bitHero)
+<img src="https://github.com/16bithero/16bithero/blob/main/avataaars%20(3).png" height="70" width="70"> | 101300174  | Ronak Gala      | [@ronakgala18](https://github.com/ronakgala18)  
 
 
 ## Contributions 
