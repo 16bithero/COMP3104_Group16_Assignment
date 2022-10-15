@@ -2,6 +2,7 @@
 > ### Assignment 1 for DevOps (COMP3104)
 
 ## Tasks
+<<<<<<< HEAD
 - [x] 💪🏻 Form a four-man-team
 - [x] 📝 Create a public rep named after the group
 - [x] 👨‍👨‍👧‍👦 Add members as collaborators
@@ -10,6 +11,17 @@
 - [x] 🔟 Make 10 commits
 - [x] ⬅️ Update and merge
 - [x] 📚 Add and Update Readme.md
+=======
+- [x] 💪🏻 &nbsp; Form a four-man-team
+- [x] 📝 &nbsp; Create a public rep named after the group
+- [x] 👨‍👨‍👧‍👦 &nbsp; Add members as collaborators
+- [x] 🏡 &nbsp; Members create their own branches
+- [x] ➕ &nbsp; Integrate to GitHub Actions
+- [x] 🔟 &nbsp; Make atleast ten commits
+- [x] 📄 &nbsp; Create three text files
+- [x] ⬅️ &nbsp; Update and merge
+- [x] 📚 &nbsp; Add and Update Readme.md
+>>>>>>> main
 
 
 ## Members 
