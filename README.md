@@ -6,6 +6,10 @@ Assignment 1 for DevOps class
 # Jacob - 101348583
 
 # Renzzi - 101277841
+<<<<<<< HEAD
 
 # Ronak - 101300174
 
+=======
+# Israr - 101348701
+>>>>>>> 101277841-Renzzi
