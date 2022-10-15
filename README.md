@@ -8,4 +8,7 @@ Assignment 1 for DevOps class
 # Renzzi - 101277841
 
 # Ronak - 101300174
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8abbccc0f64618c0040f51195a1422d57eb60067
