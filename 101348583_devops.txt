@@ -5,3 +5,9 @@ workplace environment to increase productivity. Analyze and evaluate various dev
 available and implement hands-on work using industry standard toolkit. Create solution to complex business
 problem by adhering to the core responsibilities of DevOps.
 
+The course has 10 lecture quizzes with the 8 best quizzes being counted.
+The course has 10 lab exercises with the 8 best labs being counted.
+
+There is an individual and a group assignment given through the course.
+
+Hopefully Priteshkumar Patel would go easy on us :)
