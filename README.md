@@ -31,3 +31,4 @@ Member| Student ID | Student Name    | GitHub Account
 🎮 Shared resources for safely merging branches to main  
 🚀 Shared resources for resolving merge conflicts  
 💞 Shared resources on resolving behind/ahead of commits from main 
+
